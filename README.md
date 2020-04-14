@@ -17,4 +17,4 @@ lookup[item]=k - item;
 }
 return false;
 }
-console.log(twoNumbersEqual ([10,15,3,7]),17));
+console.log(twoNumbersEqual([10,15,3,7]),17);
